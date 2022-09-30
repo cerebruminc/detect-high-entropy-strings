@@ -1,13 +1,13 @@
 {
   "name": "detect-high-entropy-strings",
   "version": "1.0.0",
-  "description": "",
+  "description": "Detect high entropy strings",
   "main": "dist/index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Cerebrum <hello@cerebrum.com> (https://cerebrum.com)",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.1.0",
     "jest": "^29.1.1",
