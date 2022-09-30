@@ -4,7 +4,9 @@
   "description": "Detect high entropy strings",
   "main": "dist/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc",
+    "prepublishOnly": "npm test && npm run build"
   },
   "author": "Cerebrum <hello@cerebrum.com> (https://cerebrum.com)",
   "license": "MIT",
