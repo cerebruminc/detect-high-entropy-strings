@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/cerebruminc/detect-high-entropy-strings/compare/v1.0.0...v1.0.1) (2022-09-30)
+
+
+### Bug Fixes
+
+* Add prepublish and build scripts ([b604249](https://github.com/cerebruminc/detect-high-entropy-strings/commit/b60424925349efcf3c718e580c7121715feebddf))
+* Use full image path for image in README ([06f899d](https://github.com/cerebruminc/detect-high-entropy-strings/commit/06f899d30b528b8d3c4aa513ef5e8fe2912a7f8e))
+
 ## 1.0.0 (2022-09-30)
 
 
