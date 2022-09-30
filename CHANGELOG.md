@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/cerebruminc/detect-high-entropy-strings/compare/v1.0.1...v1.0.2) (2022-09-30)
+
+
+### Bug Fixes
+
+* Auto publish to npm when a new tag is added to master ([7d329f7](https://github.com/cerebruminc/detect-high-entropy-strings/commit/7d329f790495fb5f94e977c62c04b52189632919))
+
 ## [1.0.1](https://github.com/cerebruminc/detect-high-entropy-strings/compare/v1.0.0...v1.0.1) (2022-09-30)
 
 
