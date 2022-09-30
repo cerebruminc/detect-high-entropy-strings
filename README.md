@@ -44,6 +44,8 @@ if (result) {
 
 ## License
 
+The project is licensed under the MIT license.
+
 The icon at the top of this file is provided by
 [pngrepo.com](https://www.pngrepo.com/svg/56112/binoculars) and is
 licensed under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
