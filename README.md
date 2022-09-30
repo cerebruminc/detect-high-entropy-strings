@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" height="200" src="binoculars-pngrepo-com.png">
+  <img width="200" height="200" src="https://raw.githubusercontent.com/cerebruminc/detect-high-entropy-strings/master/binoculars-pngrepo-com.png">
   <br>
   <br>
 
