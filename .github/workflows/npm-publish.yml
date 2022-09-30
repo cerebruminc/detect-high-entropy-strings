@@ -1,0 +1,21 @@
+on:
+  push:
+    branches:
+      - master
+    tags:
+      - "*"
+
+name: NPM publish
+jobs:
+  publish:
+    runs-on: ununtu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 16
+          registry-url: https://registry.npmjs.org/
+      - run: npm install
+      - run: npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
