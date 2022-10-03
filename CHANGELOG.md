@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/cerebruminc/detect-high-entropy-strings/compare/v1.0.2...v1.0.3) (2022-10-03)
+
+
+### Bug Fixes
+
+* Add git url to package.json ([dfa2089](https://github.com/cerebruminc/detect-high-entropy-strings/commit/dfa20898dc192b50b5cf9910d89df51a50d30945))
+* Use release-please logic to publish to npm ([49d6911](https://github.com/cerebruminc/detect-high-entropy-strings/commit/49d69117bd65ae214af090e248778eee88de2824))
+
 ## [1.0.2](https://github.com/cerebruminc/detect-high-entropy-strings/compare/v1.0.1...v1.0.2) (2022-09-30)
 
 
