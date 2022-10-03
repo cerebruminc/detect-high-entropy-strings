@@ -3,6 +3,10 @@
   "version": "1.0.2",
   "description": "Detect high entropy strings",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cerebruminc/detect-high-entropy-strings.git"
+  },
   "scripts": {
     "test": "jest",
     "build": "tsc",
