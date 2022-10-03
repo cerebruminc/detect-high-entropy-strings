@@ -3,6 +3,8 @@
   <br>
   <br>
 
+  [![npm version](https://badge.fury.io/js/detect-high-entropy-strings.svg)](https://badge.fury.io/js/detect-high-entropy-strings)
+
   <h1>D H E S</h1>
 
   <p>
