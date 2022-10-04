@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/cerebruminc/detect-high-entropy-strings/compare/v1.0.3...v1.0.4) (2022-10-04)
+
+
+### Bug Fixes
+
+* Correctly ID release step in GitHub action ([e17f690](https://github.com/cerebruminc/detect-high-entropy-strings/commit/e17f690dd66d5f698cbce1949b03f1512b6d9a57))
+
 ## [1.0.3](https://github.com/cerebruminc/detect-high-entropy-strings/compare/v1.0.2...v1.0.3) (2022-10-03)
 
 
