@@ -3,7 +3,7 @@
   <br>
   <br>
 
-  [![npm version](https://badge.fury.io/js/detect-high-entropy-strings.svg)](https://badge.fury.io/js/detect-high-entropy-strings)
+[![npm version](https://badge.fury.io/js/detect-high-entropy-strings.svg)](https://badge.fury.io/js/detect-high-entropy-strings)
 
   <h1>D H E S</h1>
 
@@ -31,16 +31,16 @@ npm i detect-high-entropy-strings
 ## Usage
 
 ```js
-const DHES = require('detect-high-entropy-strings')
+const DHES = require("detect-high-entropy-strings");
 
-const detector = new DHES()
+const detector = new DHES();
 
 const result = detector.isHighEntropyString("051cd83bef009e738bddbdbaac373d20");
 
 if (result) {
-  console.log("This is a high entropy string!")
+  console.log("This is a high entropy string!");
 } else {
-  console.log("This is not a high entropy string.")
+  console.log("This is not a high entropy string.");
 }
 ```
 
@@ -52,6 +52,10 @@ The icon at the top of this file is provided by
 [pngrepo.com](https://www.pngrepo.com/svg/56112/binoculars) and is
 licensed under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-
-
-
+<div align="center">
+  <br>
+  <br>
+  <a href="https://www.cerebrum.com/" target="_blank">
+    <img src="poweredByCerebrum.svg">
+  </a>
+</div>
