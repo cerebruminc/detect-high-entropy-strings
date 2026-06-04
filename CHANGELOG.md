@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/cerebruminc/detect-high-entropy-strings/compare/v1.0.4...v1.0.5) (2026-06-04)
+
+
+### Bug Fixes
+
+* **ci:** update actions to their latest version ([eb88604](https://github.com/cerebruminc/detect-high-entropy-strings/commit/eb88604fb3f8ee2a0a7e778d5e87dbb690e5c50e))
+
 ## [1.0.4](https://github.com/cerebruminc/detect-high-entropy-strings/compare/v1.0.3...v1.0.4) (2022-10-04)
 
 
