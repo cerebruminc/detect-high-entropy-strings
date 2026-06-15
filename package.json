@@ -1,6 +1,6 @@
 {
   "name": "detect-high-entropy-strings",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Detect high entropy strings",
   "main": "dist/index.js",
   "repository": {
