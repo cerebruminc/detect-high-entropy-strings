@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.6](https://github.com/cerebruminc/detect-high-entropy-strings/compare/v1.0.5...v1.0.6) (2026-06-15)
+
+
+### Bug Fixes
+
+* update vulnerable babel traverse dependency ([9915280](https://github.com/cerebruminc/detect-high-entropy-strings/commit/991528021a0d6916f642fcac66b8021e27fef95f))
+
 ## [1.0.5](https://github.com/cerebruminc/detect-high-entropy-strings/compare/v1.0.4...v1.0.5) (2026-06-04)
 
 
